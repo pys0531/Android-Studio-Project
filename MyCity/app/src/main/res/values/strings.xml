@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="recommend">Recommend</string>
+    <string name="summary">Recommended Place</string>
+    <string name="namguro">남구로</string>
+    <string name="guro_marketplace">구로시장</string>
+    <string name="guro_seven_princess">칠공주떡볶이</string>
+    <string name="hongdae">홍대</string>
+    <string name="hongdae_street">홍대앞 거리</string>
+    <string name="sillim">신림</string>
+    <string name="sillim_street">신림 별빛거리</string>
+    <string name="back_button">Back</string>
+    <string name="home">Home</string>
+</resources>

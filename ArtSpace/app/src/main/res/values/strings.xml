@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="ic_launcher_foreground_title">ic_launcher_foreground</string>
+    <string name="ic_launcher_foreground_text">test1</string>
+    <string name="ic_launcher_foreground_description">ic_launcher_foreground</string>
+    <string name="ic_launcher_background_title">ic_launcher_background</string>
+    <string name="ic_launcher_background_text">test2</string>
+    <string name="ic_launcher_background_description">ic_launcher_background</string>
+    <string name="lemon_drink_title">lemon_drink</string>
+    <string name="lemon_drink_text">test3</string>
+    <string name="lemon_drink_description">lemon_drink</string>
+
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>

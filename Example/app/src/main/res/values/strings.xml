@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="happy_birthday_to_you">Happy Birthday to You</string>
+    <string name="signature_text">- from pys</string>
+</resources>

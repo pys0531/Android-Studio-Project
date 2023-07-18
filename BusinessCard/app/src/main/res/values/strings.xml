@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <string name="name">Park Young Sin</string>
+    <string name="introduce">Android Developer Extraordinaire</string>
+
+    <string name="phone_number">+82 010 3364 6986</string>
+    <string name="link">https://github.com/pys0531</string>
+    <string name="email">dudtls531@gmail.com</string>
+</resources>

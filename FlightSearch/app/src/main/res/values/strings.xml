@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="back_button">Back Button</string>
+    <string name="no_item_favorite">No items in the Favorite</string>
+    <string name="favorite_button">Favorite Button</string>
+</resources>
